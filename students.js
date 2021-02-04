@@ -1,4 +1,4 @@
-export let studentList = [
+export const studentList = [
     {
         "id": 0,
         "name": "Iseabal",
